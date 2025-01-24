@@ -1,0 +1,20 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@raydium-io/raydium-sdk-v2": "^0.1.106-alpha",
+    "axios": "^1.7.9",
+    "bs58": "^6.0.0",
+    "together-ai": "^0.12.0",
+    "tsc": "^2.0.4",
+    "typescript": "^5.7.3"
+  }
+}
